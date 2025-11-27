@@ -1,10 +1,10 @@
 pipeline {
     agent any
     environment {
-        REPO_URL = "https://github.com/candymansolonely/Identity-OAuth2-fe.git"
+        REPO_URL = "https://github.com/candymansolonely/admin-fe.git"
         IMAGE_NAME = "admin-fe"
         CONTAINER_NAME = "admin-fe"
-        PORT_HOST = "1001"
+        PORT_HOST = "1002"
         PORT_CONTAINER = "80"
     }
     stages {
