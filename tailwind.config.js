@@ -4,7 +4,7 @@ export default {
   darkMode: ['selector', '[class*="app-dark"]'],
   content: [
     './index.html',
-    './oauth2/src/**/*.{html,ts,js}',
+    './admin-fe/src/**/*.{html,ts,js}',
     './public/**/*.json'],
   plugins: [PrimeUI],
   theme: {

@@ -5,10 +5,10 @@
   "projectTitle": "Branch Manager",
   "favicon": "assets/images/favicon.ico",
   "oauth": {
-    "issuer": "https://localhost:6001/",
+    "issuer": "https://identity-be.lhtrung.io.vn/",
     "redirectUri": "/oauth2-callback",
     "postLogoutRedirectUri": "/signout-callback-oidc",
-    "clientId": "test01",
+    "clientId": "AERP",
     "responseType": "code",
     "scope": "openid profile api offline_access",
     "showDebugInformation": true,
