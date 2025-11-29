@@ -8,7 +8,7 @@
     "issuer": "https://identity-be.lhtrung.io.vn/",
     "redirectUri": "/oauth2-callback",
     "postLogoutRedirectUri": "/signout-callback-oidc",
-    "clientId": "AERP",
+    "clientId": "Admin",
     "responseType": "code",
     "scope": "openid profile api offline_access",
     "showDebugInformation": true,
