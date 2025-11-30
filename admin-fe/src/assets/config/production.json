@@ -2,6 +2,9 @@
   "api": {
     "baseUrl": "https://branchmanager.pmr.vn:30080/api"
   },
+  "cookie": {
+    "identity": "msa.idsrv.session"
+  },
   "projectTitle": "Branch Manager",
   "favicon": "assets/images/favicon.ico",
   "oauth": {

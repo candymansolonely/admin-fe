@@ -4,7 +4,7 @@ pipeline {
         REPO_URL = "https://github.com/candymansolonely/admin-fe.git"
         IMAGE_NAME = "admin-fe"
         CONTAINER_NAME = "admin-fe"
-        PORT_HOST = "1002"
+        PORT_HOST = "1004"
         PORT_CONTAINER = "80"
     }
     stages {
